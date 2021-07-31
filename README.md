@@ -12,3 +12,7 @@ Based on various market surveys, the consulting firm has gathered a large datase
 
 # Business Goal
 You are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+
+# Algorithms used
+Linear Regression, Recussive Feature Elimination
+Librairies: pandas, seaborn, numpy, matplotlib
